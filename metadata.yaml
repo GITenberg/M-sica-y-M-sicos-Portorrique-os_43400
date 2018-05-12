@@ -1,0 +1,28 @@
+_repo: M-sica-y-M-sicos-Portorrique-os_43400
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43400-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Callejo Ferrer, Fernando
+    alias: Ferrer, Fernando Callejo
+    birthdate: 1862
+    deathdate: 1926
+    gutenberg_agent_id: '42182'
+    url: http://www.gutenberg.org/2009/agents/42182
+description: ''
+gutenberg_issued: '2013-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43400'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musicians -- Puerto Rico'
+- !lcsh 'Music -- Puerto Rico -- History and criticism'
+- !lcc 'ML'
+title: Música y Músicos Portorriqueños
+url: http://www.gutenberg.org/ebooks/43400
