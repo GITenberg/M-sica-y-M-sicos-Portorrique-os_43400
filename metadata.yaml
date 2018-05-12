@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42182'
     url: http://www.gutenberg.org/2009/agents/42182
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43400#M-sica-y-M-sicos-Portorrique-os
 gutenberg_issued: '2013-08-04'
 gutenberg_type: Text
 identifiers:
